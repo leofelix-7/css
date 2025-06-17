@@ -34,3 +34,7 @@ div h1 {
     color: gray;
     text-align: center;
 }
+
+body {
+    background-color: aqua;
+}
