@@ -1,0 +1,36 @@
+/* ( * ) Universal Selector */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Element Selector ( p, div, etc . . . ) */
+/* p {
+    color: red;
+} */
+
+/* Class Selector (.class_name) */
+.name {
+    color: blue;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* ID Selector (#id_name) unique ID */
+#position {
+    font-weight: bold;
+    text-align: center;
+    color: gray;
+}
+
+/* Class Selector (.class_name) */
+.container {
+    border: 2px solid red;
+}
+
+/* Descendant Selector */
+div h1 {
+    color: gray;
+    text-align: center;
+}
